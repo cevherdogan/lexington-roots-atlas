@@ -1,0 +1,65 @@
+[
+  {
+    "title": "Lexington, Virginia",
+    "category": "place",
+    "theme": "Shenandoah Valley \u00b7 Rockbridge County",
+    "description": "A historic town at the meeting of education, Civil War memory, mountain landscapes and contemporary community life.",
+    "source": "https://www.lexingtonva.gov/"
+  },
+  {
+    "title": "Lexington, Massachusetts",
+    "category": "place",
+    "theme": "American Revolution",
+    "description": "The Battles of Lexington and Concord in April 1775 helped launch the Revolutionary War. Distinct from the Virginia town.",
+    "source": "https://www.nps.gov/mima/index.htm"
+  },
+  {
+    "title": "Lexington Avenue, New York",
+    "category": "association",
+    "theme": "Urban naming \u00b7 New York City",
+    "description": "A naming connection worth exploring; shared name does not establish a direct founding or historical causal link.",
+    "source": "https://www.nyc.gov/"
+  },
+  {
+    "title": "Washington and Lee University",
+    "category": "education",
+    "theme": "Lexington, Virginia",
+    "description": "A major educational institution whose history intersects with American founding, slavery, Civil War memory and higher education.",
+    "source": "https://www.wlu.edu/"
+  },
+  {
+    "title": "Virginia Military Institute",
+    "category": "education",
+    "theme": "Lexington, Virginia",
+    "description": "State-supported military college established in 1839; a lens into military education and historical commemoration.",
+    "source": "https://www.vmi.edu/"
+  },
+  {
+    "title": "Appalachian Trail",
+    "category": "landscape",
+    "theme": "Appalachian Mountains",
+    "description": "The Appalachian Trail passes through the wider region, not downtown Lexington; use verified trailhead maps before navigating.",
+    "source": "https://appalachiantrail.org/"
+  },
+  {
+    "title": "Natural Bridge",
+    "category": "landscape",
+    "theme": "Rockbridge County",
+    "description": "A striking limestone formation connecting geology, tourism, Indigenous histories and early American travel.",
+    "source": "https://www.dcr.virginia.gov/state-parks/natural-bridge"
+  },
+  {
+    "title": "Wealth and poverty",
+    "category": "economy",
+    "theme": "Research question",
+    "description": "Explore income, employment, housing, education and unequal opportunity using Census ACS; no invented local statistics.",
+    "source": "https://data.census.gov/"
+  },
+  {
+    "title": "Culture and living history",
+    "category": "culture",
+    "theme": "Rockbridge County",
+    "description": "Explore traditions, museums, landscapes, community memory and whose voices are represented.",
+    "source": "https://www.virginia.org/"
+  }
+]
